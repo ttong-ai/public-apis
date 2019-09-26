@@ -521,6 +521,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Keen IO](https://keen.io/) | Data Analytics | `apiKey` | Yes | Unknown |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [Wit.ai](https://wit.ai/) | Natural Language Processing | `OAuth` | Yes | Unknown |
+| [ConceptNet.io](http://conceptnet.io/c/en/) | Knowledge Base | No | No | Unknown |
 
 ### Music
 API | Description | Auth | HTTPS | CORS |
